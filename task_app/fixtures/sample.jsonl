@@ -1,0 +1,11 @@
+{"ts": "2026-11-19T00:00:00Z", "status": 200, "latency_ms": 12}
+{"ts": "2026-11-19T00:00:01Z", "status": 200, "latency_ms": 18}
+{"ts": "2026-11-19T00:00:02Z", "status": 500, "latency_ms": 25}
+
+{"ts": "2026-11-19T00:00:03Z", "status": 200, "latency_ms": 30}
+{"ts": "2026-11-19T00:00:04Z", "status": 200, "latency_ms": 42}
+{"ts": "2026-11-19T00:00:05Z", "status": 200, "latency_ms": 55}
+{"ts": "2026-11-19T00:00:06Z", "status": 500, "latency_ms": 90}
+{"ts": "2026-11-19T00:00:07Z", "status": 200, "latency_ms": 140}
+{"ts": "2026-11-19T00:00:08Z", "status": 200
+[1, 2, 3]

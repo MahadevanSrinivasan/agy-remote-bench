@@ -1,0 +1,13 @@
+# Antigravity ignore patterns
+.git/
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+dist/
+build/
+*.egg-info/
+node_modules/
+release/*.mp4
+task_app/.venv/
